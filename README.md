@@ -1,4 +1,4 @@
-Task realized during Front-End Developer Bootcamp
+Task performed during Front-End Developer Bootcamp
 
 Przygotuj ponownie przycisk z atrybutem id=”getGoat”. Spraw aby po kliknięciu w niego dodany został dynamicznie element <img> o src podanym niżej:
 https://placegoat.com/
